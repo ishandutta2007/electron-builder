@@ -152,3 +152,10 @@ We do this open source work in our free time. If you'd like us to invest more ti
 
 <a href="https://workflowy.com"><img src="https://workflowy.com/media/i/wf-icon-android.png" alt="WorkFlowy" title="WorkFlowy" width="75" height="75"/></a>
 <a href="https://tidepool.org"><img src="https://www.electron.build/sponsor-logos/Tidepool_Logo_Light.svg" alt="Tidepool" title="Tidepool" /></a>
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
